@@ -1,0 +1,23 @@
+    /*font style*/
+    .abhayaSB{
+        font-family: "Abhaya Libre", serif;
+        font-weight: 600;
+        font-style: normal;
+    }
+    .serifR{
+        font-family: "DM Serif Display", serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+    .nanumR{font-family: 'NanumSquareRound', serif;}
+    .nanumEB{font-family: 'NanumSquareRoundEB', serif;}
+    .font350{font-size: 350px;}
+    .font200{font-size: 200px;}
+    .font128{font-size: 128px;}
+    .font100{font-size: 100px;}
+    .font75{font-size: 75px;}
+    .font50{font-size: 50px;}
+    .font24{font-size: 24px;}
+    .font18{font-size: 18px;}
+    .font15{font-size: 15px;}
+    .font12{font-size: 12px;}
